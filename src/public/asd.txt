@@ -1,0 +1,1 @@
+A simple text to show that everything is copied to the build directory from the public directory.
